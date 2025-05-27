@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Fares 👋
 
-<!--
-**fares-xdev/fares-xdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Front-End Developer** passionate about **React** and **JavaScript**.
+I love building engaging and user-friendly web experiences. Always eager to learn, improve, and contribute to exciting projects.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Languages:** JavaScript, HTML5, CSS3  
+- **Frameworks & Libraries:** React, Bootstrap  
+- **Tools:** Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- 📧 Email: faresx.dev@gmail.com  
+- 💬 WhatsApp: https://wa.me/201092377662
+- 🔗 LinkedIn: Coming soon
+
+## ⚡ Fun fact
+I enjoy turning ideas into reality by coding and exploring new technologies.
+
+---
+
+Thanks for visiting my profile! Feel free to connect or collaborate! 😊
